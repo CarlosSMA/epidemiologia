@@ -1,4 +1,4 @@
-# Modelagem SEIR para Análise da Proliferação da Ferrugem Asiática em Plantações de Soja
+# Utilização da abordagem SEIR para análise da proliferação da Ferrugem Asiática em plantações de soja
 
 Este repositório contém o código-fonte referente ao estudo de modelagem matemática da proliferação da Ferrugem Asiática na sojicultura brasileira. O projeto implementa um modelo epidemiológico compartimental determinístico **SEIR** (Suscetíveis, Expostas, Infectadas e Removidas) baseado em Equações Diferenciais Ordinárias (EDOs).
 
