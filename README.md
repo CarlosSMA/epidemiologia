@@ -15,5 +15,5 @@ pip install -r requirements.txt
 
 3. Execute o arquivo principal
 ```
-python3 ./main.py
+python3 ./codigo/main.py
 ```
