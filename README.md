@@ -27,4 +27,4 @@ python3 ./codigo/main.py
 ```
 
 ## Resultados
-A execução do algoritmo criará um diretório `relatorio_ferrugem` na raiz do projeto e salvará o gráfico `grafico_seir_edo.png`. Este gráfico demonstra as curvas compartimentais da lavoura no decorrer da safra.
+A execução do algoritmo criará um diretório `relatorio` na raiz do projeto e salvará o gráfico `grafico_seir.png`. Este gráfico demonstra as curvas compartimentais da lavoura no decorrer da safra.
